@@ -1,0 +1,565 @@
+name,category
+http://bio2rdf.org/kegg:map05162,Human Diseases
+http://bio2rdf.org/kegg:map05162,Infectious diseases
+http://bio2rdf.org/kegg:map05166,Infectious diseases
+http://bio2rdf.org/kegg:map05166,Human Diseases
+http://bio2rdf.org/kegg:map05414,Cardiovascular diseases
+http://bio2rdf.org/kegg:map05414,Human Diseases
+http://bio2rdf.org/kegg:map05412,Cardiovascular diseases
+http://bio2rdf.org/kegg:map05412,Human Diseases
+http://bio2rdf.org/kegg:map05410,Cardiovascular diseases
+http://bio2rdf.org/kegg:map05410,Human Diseases
+http://bio2rdf.org/kegg:map04020,Signal transduction
+http://bio2rdf.org/kegg:map04020,Environmental Information Processing
+http://bio2rdf.org/kegg:map04080,Environmental Information Processing
+http://bio2rdf.org/kegg:map04080,Signaling molecules and interaction
+http://bio2rdf.org/kegg:map04970,Organismal Systems
+http://bio2rdf.org/kegg:map04970,Digestive system
+http://bio2rdf.org/kegg:map04270,Circulatory system
+http://bio2rdf.org/kegg:map04270,Organismal Systems
+http://bio2rdf.org/kegg:map01230,Overview
+http://bio2rdf.org/kegg:map01230,Metabolism
+http://bio2rdf.org/kegg:map01200,Metabolism
+http://bio2rdf.org/kegg:map01200,Overview
+http://bio2rdf.org/kegg:map01210,Metabolism
+http://bio2rdf.org/kegg:map01210,Overview
+http://bio2rdf.org/kegg:map03018,Genetic Information Processing
+http://bio2rdf.org/kegg:map03018,"Folding, sorting and degradation"
+http://bio2rdf.org/kegg:map00010,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map00010,Metabolism
+http://bio2rdf.org/kegg:map00620,Metabolism
+http://bio2rdf.org/kegg:map00620,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map00520,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map00520,Metabolism
+http://bio2rdf.org/kegg:map00500,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map00500,Metabolism
+http://bio2rdf.org/kegg:map04973,Organismal Systems
+http://bio2rdf.org/kegg:map04973,Digestive system
+http://bio2rdf.org/kegg:map00052,Metabolism
+http://bio2rdf.org/kegg:map00052,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map00760,Metabolism of cofactors and vitamins
+http://bio2rdf.org/kegg:map00760,Metabolism
+http://bio2rdf.org/kegg:map04974,Digestive system
+http://bio2rdf.org/kegg:map04974,Organismal Systems
+http://bio2rdf.org/kegg:map00740,Metabolism of cofactors and vitamins
+http://bio2rdf.org/kegg:map00740,Metabolism
+http://bio2rdf.org/kegg:map04015,Signal transduction
+http://bio2rdf.org/kegg:map04015,Environmental Information Processing
+http://bio2rdf.org/kegg:map05200,Cancers
+http://bio2rdf.org/kegg:map05200,Human Diseases
+http://bio2rdf.org/kegg:map04151,Environmental Information Processing
+http://bio2rdf.org/kegg:map04151,Signal transduction
+http://bio2rdf.org/kegg:map04014,Signal transduction
+http://bio2rdf.org/kegg:map04014,Environmental Information Processing
+http://bio2rdf.org/kegg:map05205,Cancers
+http://bio2rdf.org/kegg:map05205,Human Diseases
+http://bio2rdf.org/kegg:map04919,Organismal Systems
+http://bio2rdf.org/kegg:map04919,Endocrine system
+http://bio2rdf.org/kegg:map04150,Signal transduction
+http://bio2rdf.org/kegg:map04150,Environmental Information Processing
+http://bio2rdf.org/kegg:map05206,Cancers
+http://bio2rdf.org/kegg:map05206,Human Diseases
+http://bio2rdf.org/kegg:map04066,Signal transduction
+http://bio2rdf.org/kegg:map04066,Environmental Information Processing
+http://bio2rdf.org/kegg:map05230,Cancers
+http://bio2rdf.org/kegg:map05230,Human Diseases
+http://bio2rdf.org/kegg:map05169,Infectious diseases
+http://bio2rdf.org/kegg:map05169,Human Diseases
+http://bio2rdf.org/kegg:map05161,Infectious diseases
+http://bio2rdf.org/kegg:map05161,Human Diseases
+http://bio2rdf.org/kegg:map05203,Cancers
+http://bio2rdf.org/kegg:map05203,Human Diseases
+http://bio2rdf.org/kegg:map05222,Cancers
+http://bio2rdf.org/kegg:map05222,Human Diseases
+http://bio2rdf.org/kegg:map04623,Organismal Systems
+http://bio2rdf.org/kegg:map04623,Immune system
+http://bio2rdf.org/kegg:map05134,Infectious diseases
+http://bio2rdf.org/kegg:map05134,Human Diseases
+http://bio2rdf.org/kegg:map05168,Infectious diseases
+http://bio2rdf.org/kegg:map05168,Human Diseases
+http://bio2rdf.org/kegg:map04064,Environmental Information Processing
+http://bio2rdf.org/kegg:map04064,Signal transduction
+http://bio2rdf.org/kegg:map04922,Endocrine system
+http://bio2rdf.org/kegg:map04922,Organismal Systems
+http://bio2rdf.org/kegg:map04710,Environmental adaptation
+http://bio2rdf.org/kegg:map04710,Organismal Systems
+http://bio2rdf.org/kegg:map04152,Signal transduction
+http://bio2rdf.org/kegg:map04152,Environmental Information Processing
+http://bio2rdf.org/kegg:map04140,Cellular Processes
+http://bio2rdf.org/kegg:map04140,Transport and catabolism
+http://bio2rdf.org/kegg:map00140,Metabolism
+http://bio2rdf.org/kegg:map00140,Lipid metabolism
+http://bio2rdf.org/kegg:map00983,Metabolism
+http://bio2rdf.org/kegg:map00983,Xenobiotics biodegradation and metabolism
+http://bio2rdf.org/kegg:map00232,Metabolism
+http://bio2rdf.org/kegg:map00232,Biosynthesis of other secondary metabolites
+http://bio2rdf.org/kegg:map04510,Cellular Processes
+http://bio2rdf.org/kegg:map04510,Cellular commiunity
+http://bio2rdf.org/kegg:map00310,Amino acid metabolism
+http://bio2rdf.org/kegg:map00310,Metabolism
+http://bio2rdf.org/kegg:map04512,Environmental Information Processing
+http://bio2rdf.org/kegg:map04512,Signaling molecules and interaction
+http://bio2rdf.org/kegg:map00532,Glycan biosynthesis and metabolism
+http://bio2rdf.org/kegg:map00532,Metabolism
+http://bio2rdf.org/kegg:map00534,Metabolism
+http://bio2rdf.org/kegg:map00534,Glycan biosynthesis and metabolism
+http://bio2rdf.org/kegg:map04141,Genetic Information Processing
+http://bio2rdf.org/kegg:map04141,"Folding, sorting and degradation"
+http://bio2rdf.org/kegg:map00514,Glycan biosynthesis and metabolism
+http://bio2rdf.org/kegg:map00514,Metabolism
+http://bio2rdf.org/kegg:map00051,Metabolism
+http://bio2rdf.org/kegg:map00051,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map00601,Glycan biosynthesis and metabolism
+http://bio2rdf.org/kegg:map00601,Metabolism
+http://bio2rdf.org/kegg:map00510,Glycan biosynthesis and metabolism
+http://bio2rdf.org/kegg:map00510,Metabolism
+http://bio2rdf.org/kegg:map00533,Glycan biosynthesis and metabolism
+http://bio2rdf.org/kegg:map00533,Metabolism
+http://bio2rdf.org/kegg:map04010,Environmental Information Processing
+http://bio2rdf.org/kegg:map04010,Signal transduction
+http://bio2rdf.org/kegg:map04260,Circulatory system
+http://bio2rdf.org/kegg:map04260,Organismal Systems
+http://bio2rdf.org/kegg:map04912,Organismal Systems
+http://bio2rdf.org/kegg:map04912,Endocrine system
+http://bio2rdf.org/kegg:map04810,Cell motility
+http://bio2rdf.org/kegg:map04810,Cellular Processes
+http://bio2rdf.org/kegg:map05130,Infectious diseases
+http://bio2rdf.org/kegg:map05130,Human Diseases
+http://bio2rdf.org/kegg:map04670,Immune system
+http://bio2rdf.org/kegg:map04670,Organismal Systems
+http://bio2rdf.org/kegg:map04666,Organismal Systems
+http://bio2rdf.org/kegg:map04666,Immune system
+http://bio2rdf.org/kegg:map05100,Infectious diseases
+http://bio2rdf.org/kegg:map05100,Human Diseases
+http://bio2rdf.org/kegg:map05131,Infectious diseases
+http://bio2rdf.org/kegg:map05131,Human Diseases
+http://bio2rdf.org/kegg:map00100,Lipid metabolism
+http://bio2rdf.org/kegg:map00100,Metabolism
+http://bio2rdf.org/kegg:map04114,Cell growth and death
+http://bio2rdf.org/kegg:map04114,Cellular Processes
+http://bio2rdf.org/kegg:map03320,Organismal Systems
+http://bio2rdf.org/kegg:map03320,Endocrine system
+http://bio2rdf.org/kegg:map00071,Lipid metabolism
+http://bio2rdf.org/kegg:map00071,Metabolism
+http://bio2rdf.org/kegg:map00061,Metabolism
+http://bio2rdf.org/kegg:map00061,Lipid metabolism
+http://bio2rdf.org/kegg:map00120,Metabolism
+http://bio2rdf.org/kegg:map00120,Lipid metabolism
+http://bio2rdf.org/kegg:map04146,Cellular Processes
+http://bio2rdf.org/kegg:map04146,Transport and catabolism
+http://bio2rdf.org/kegg:map00592,Lipid metabolism
+http://bio2rdf.org/kegg:map00592,Metabolism
+http://bio2rdf.org/kegg:map01212,Metabolism
+http://bio2rdf.org/kegg:map01212,Overview
+http://bio2rdf.org/kegg:map01040,Lipid metabolism
+http://bio2rdf.org/kegg:map01040,Metabolism
+http://bio2rdf.org/kegg:map00350,Metabolism
+http://bio2rdf.org/kegg:map00350,Amino acid metabolism
+http://bio2rdf.org/kegg:map00330,Metabolism
+http://bio2rdf.org/kegg:map00330,Amino acid metabolism
+http://bio2rdf.org/kegg:map04726,Nervous system
+http://bio2rdf.org/kegg:map04726,Organismal Systems
+http://bio2rdf.org/kegg:map00340,Metabolism
+http://bio2rdf.org/kegg:map00340,Amino acid metabolism
+http://bio2rdf.org/kegg:map00130,Metabolism
+http://bio2rdf.org/kegg:map00130,Metabolism of cofactors and vitamins
+http://bio2rdf.org/kegg:map00360,Amino acid metabolism
+http://bio2rdf.org/kegg:map00360,Metabolism
+http://bio2rdf.org/kegg:map00380,Amino acid metabolism
+http://bio2rdf.org/kegg:map00380,Metabolism
+http://bio2rdf.org/kegg:map00550,Metabolism
+http://bio2rdf.org/kegg:map00550,Glycan biosynthesis and metabolism
+http://bio2rdf.org/kegg:map00630,Metabolism
+http://bio2rdf.org/kegg:map00630,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map00280,Amino acid metabolism
+http://bio2rdf.org/kegg:map00280,Metabolism
+http://bio2rdf.org/kegg:map00900,Metabolism
+http://bio2rdf.org/kegg:map00900,Metabolism of terpenoids and polyketides
+http://bio2rdf.org/kegg:map00640,Metabolism
+http://bio2rdf.org/kegg:map00640,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map04727,Nervous system
+http://bio2rdf.org/kegg:map04727,Organismal Systems
+http://bio2rdf.org/kegg:map04650,Organismal Systems
+http://bio2rdf.org/kegg:map04650,Immune system
+http://bio2rdf.org/kegg:map04660,Organismal Systems
+http://bio2rdf.org/kegg:map04660,Immune system
+http://bio2rdf.org/kegg:map05160,Infectious diseases
+http://bio2rdf.org/kegg:map05160,Human Diseases
+http://bio2rdf.org/kegg:map04917,Endocrine system
+http://bio2rdf.org/kegg:map04917,Organismal Systems
+http://bio2rdf.org/kegg:map04662,Organismal Systems
+http://bio2rdf.org/kegg:map04662,Immune system
+http://bio2rdf.org/kegg:map04930,Endocrine and metabolic diseases
+http://bio2rdf.org/kegg:map04930,Human Diseases
+http://bio2rdf.org/kegg:map04910,Organismal Systems
+http://bio2rdf.org/kegg:map04910,Endocrine system
+http://bio2rdf.org/kegg:map04950,Endocrine and metabolic diseases
+http://bio2rdf.org/kegg:map04950,Human Diseases
+http://bio2rdf.org/kegg:map00471,Metabolism of other amino acids
+http://bio2rdf.org/kegg:map00471,Metabolism
+http://bio2rdf.org/kegg:map04370,Signal transduction
+http://bio2rdf.org/kegg:map04370,Environmental Information Processing
+http://bio2rdf.org/kegg:map00590,Lipid metabolism
+http://bio2rdf.org/kegg:map00590,Metabolism
+http://bio2rdf.org/kegg:map05014,Human Diseases
+http://bio2rdf.org/kegg:map05014,Neurodegenerative diseases
+http://bio2rdf.org/kegg:map05031,Human Diseases
+http://bio2rdf.org/kegg:map05031,Substance dependence
+http://bio2rdf.org/kegg:map04713,Environmental adaptation
+http://bio2rdf.org/kegg:map04713,Organismal Systems
+http://bio2rdf.org/kegg:map05030,Human Diseases
+http://bio2rdf.org/kegg:map05030,Substance dependence
+http://bio2rdf.org/kegg:map05034,Human Diseases
+http://bio2rdf.org/kegg:map05034,Substance dependence
+http://bio2rdf.org/kegg:map05033,Human Diseases
+http://bio2rdf.org/kegg:map05033,Substance dependence
+http://bio2rdf.org/kegg:map04720,Organismal Systems
+http://bio2rdf.org/kegg:map04720,Nervous system
+http://bio2rdf.org/kegg:map05143,Infectious diseases
+http://bio2rdf.org/kegg:map05143,Human Diseases
+http://bio2rdf.org/kegg:map05144,Infectious diseases
+http://bio2rdf.org/kegg:map05144,Human Diseases
+http://bio2rdf.org/kegg:map05321,Immune diseases
+http://bio2rdf.org/kegg:map05321,Human Diseases
+http://bio2rdf.org/kegg:map05416,Human Diseases
+http://bio2rdf.org/kegg:map05416,Cardiovascular diseases
+http://bio2rdf.org/kegg:map04940,Endocrine and metabolic diseases
+http://bio2rdf.org/kegg:map04940,Human Diseases
+http://bio2rdf.org/kegg:map05332,Human Diseases
+http://bio2rdf.org/kegg:map05332,Immune diseases
+http://bio2rdf.org/kegg:map05323,Human Diseases
+http://bio2rdf.org/kegg:map05323,Immune diseases
+http://bio2rdf.org/kegg:map05330,Human Diseases
+http://bio2rdf.org/kegg:map05330,Immune diseases
+http://bio2rdf.org/kegg:map04672,Organismal Systems
+http://bio2rdf.org/kegg:map04672,Immune system
+http://bio2rdf.org/kegg:map05320,Human Diseases
+http://bio2rdf.org/kegg:map05320,Immune diseases
+http://bio2rdf.org/kegg:map05310,Human Diseases
+http://bio2rdf.org/kegg:map05310,Immune diseases
+http://bio2rdf.org/kegg:map00240,Nucleotide metabolism
+http://bio2rdf.org/kegg:map00240,Metabolism
+http://bio2rdf.org/kegg:map00230,Nucleotide metabolism
+http://bio2rdf.org/kegg:map00230,Metabolism
+http://bio2rdf.org/kegg:map00020,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map00020,Metabolism
+http://bio2rdf.org/kegg:map04340,Environmental Information Processing
+http://bio2rdf.org/kegg:map04340,Signal transduction
+http://bio2rdf.org/kegg:map04310,Signal transduction
+http://bio2rdf.org/kegg:map04310,Environmental Information Processing
+http://bio2rdf.org/kegg:map00860,Metabolism
+http://bio2rdf.org/kegg:map00860,Metabolism of cofactors and vitamins
+http://bio2rdf.org/kegg:map04350,Signal transduction
+http://bio2rdf.org/kegg:map04350,Environmental Information Processing
+http://bio2rdf.org/kegg:map05217,Cancers
+http://bio2rdf.org/kegg:map05217,Human Diseases
+http://bio2rdf.org/kegg:map00980,Xenobiotics biodegradation and metabolism
+http://bio2rdf.org/kegg:map00980,Metabolism
+http://bio2rdf.org/kegg:map00982,Metabolism
+http://bio2rdf.org/kegg:map00982,Xenobiotics biodegradation and metabolism
+http://bio2rdf.org/kegg:map05204,Human Diseases
+http://bio2rdf.org/kegg:map05204,Cancers
+http://bio2rdf.org/kegg:map00030,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map00030,Metabolism
+http://bio2rdf.org/kegg:map00480,Metabolism
+http://bio2rdf.org/kegg:map00480,Metabolism of other amino acids
+http://bio2rdf.org/kegg:map03040,Genetic Information Processing
+http://bio2rdf.org/kegg:map03040,Transcription
+http://bio2rdf.org/kegg:map04744,Sensory system
+http://bio2rdf.org/kegg:map04744,Organismal Systems
+http://bio2rdf.org/kegg:map00830,Metabolism of cofactors and vitamins
+http://bio2rdf.org/kegg:map00830,Metabolism
+http://bio2rdf.org/kegg:map00190,Energy metabolism
+http://bio2rdf.org/kegg:map00190,Metabolism
+http://bio2rdf.org/kegg:map05010,Neurodegenerative diseases
+http://bio2rdf.org/kegg:map05010,Human Diseases
+http://bio2rdf.org/kegg:map04932,Human Diseases
+http://bio2rdf.org/kegg:map04932,Endocrine and metabolic diseases
+http://bio2rdf.org/kegg:map05012,Neurodegenerative diseases
+http://bio2rdf.org/kegg:map05012,Human Diseases
+http://bio2rdf.org/kegg:map05016,Neurodegenerative diseases
+http://bio2rdf.org/kegg:map05016,Human Diseases
+http://bio2rdf.org/kegg:map04610,Organismal Systems
+http://bio2rdf.org/kegg:map04610,Immune system
+http://bio2rdf.org/kegg:map05020,Neurodegenerative diseases
+http://bio2rdf.org/kegg:map05020,Human Diseases
+http://bio2rdf.org/kegg:map05322,Immune diseases
+http://bio2rdf.org/kegg:map05322,Human Diseases
+http://bio2rdf.org/kegg:map05150,Infectious diseases
+http://bio2rdf.org/kegg:map05150,Human Diseases
+http://bio2rdf.org/kegg:map05211,Human Diseases
+http://bio2rdf.org/kegg:map05211,Cancers
+http://bio2rdf.org/kegg:map05219,Cancers
+http://bio2rdf.org/kegg:map05219,Human Diseases
+http://bio2rdf.org/kegg:map04320,Organismal Systems
+http://bio2rdf.org/kegg:map04320,Development
+http://bio2rdf.org/kegg:map05223,Cancers
+http://bio2rdf.org/kegg:map05223,Human Diseases
+http://bio2rdf.org/kegg:map05218,Human Diseases
+http://bio2rdf.org/kegg:map05218,Cancers
+http://bio2rdf.org/kegg:map05214,Human Diseases
+http://bio2rdf.org/kegg:map05214,Cancers
+http://bio2rdf.org/kegg:map05216,Human Diseases
+http://bio2rdf.org/kegg:map05216,Cancers
+http://bio2rdf.org/kegg:map04976,Organismal Systems
+http://bio2rdf.org/kegg:map04976,Digestive system
+http://bio2rdf.org/kegg:map00790,Metabolism of cofactors and vitamins
+http://bio2rdf.org/kegg:map00790,Metabolism
+http://bio2rdf.org/kegg:map04920,Endocrine system
+http://bio2rdf.org/kegg:map04920,Organismal Systems
+http://bio2rdf.org/kegg:map00400,Amino acid metabolism
+http://bio2rdf.org/kegg:map00400,Metabolism
+http://bio2rdf.org/kegg:map04614,Endocrine system
+http://bio2rdf.org/kegg:map04614,Organismal Systems
+http://bio2rdf.org/kegg:map00970,Translation
+http://bio2rdf.org/kegg:map00970,Genetic Information Processing
+http://bio2rdf.org/kegg:map04120,"Folding, sorting and degradation"
+http://bio2rdf.org/kegg:map04120,Genetic Information Processing
+http://bio2rdf.org/kegg:map00062,Lipid metabolism
+http://bio2rdf.org/kegg:map00062,Metabolism
+http://bio2rdf.org/kegg:map00250,Metabolism
+http://bio2rdf.org/kegg:map00250,Amino acid metabolism
+http://bio2rdf.org/kegg:map00410,Metabolism
+http://bio2rdf.org/kegg:map00410,Metabolism of other amino acids
+http://bio2rdf.org/kegg:map00430,Metabolism
+http://bio2rdf.org/kegg:map00430,Metabolism of other amino acids
+http://bio2rdf.org/kegg:map00650,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map00650,Metabolism
+http://bio2rdf.org/kegg:map00072,Lipid metabolism
+http://bio2rdf.org/kegg:map00072,Metabolism
+http://bio2rdf.org/kegg:map00040,Metabolism
+http://bio2rdf.org/kegg:map00040,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map00053,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map00053,Metabolism
+http://bio2rdf.org/kegg:map00561,Lipid metabolism
+http://bio2rdf.org/kegg:map00561,Metabolism
+http://bio2rdf.org/kegg:map00591,Metabolism
+http://bio2rdf.org/kegg:map00591,Lipid metabolism
+http://bio2rdf.org/kegg:map00564,Lipid metabolism
+http://bio2rdf.org/kegg:map00564,Metabolism
+http://bio2rdf.org/kegg:map00770,Metabolism of cofactors and vitamins
+http://bio2rdf.org/kegg:map00770,Metabolism
+http://bio2rdf.org/kegg:map00565,Lipid metabolism
+http://bio2rdf.org/kegg:map00565,Metabolism
+http://bio2rdf.org/kegg:map04964,Organismal Systems
+http://bio2rdf.org/kegg:map04964,Excretory system
+http://bio2rdf.org/kegg:map04530,Cellular Processes
+http://bio2rdf.org/kegg:map04530,Cellular commiunity
+http://bio2rdf.org/kegg:map04520,Cellular Processes
+http://bio2rdf.org/kegg:map04520,Cellular commiunity
+http://bio2rdf.org/kegg:map04540,Cellular Processes
+http://bio2rdf.org/kegg:map04540,Cellular commiunity
+http://bio2rdf.org/kegg:map04390,Signal transduction
+http://bio2rdf.org/kegg:map04390,Environmental Information Processing
+http://bio2rdf.org/kegg:map04721,Nervous system
+http://bio2rdf.org/kegg:map04721,Organismal Systems
+http://bio2rdf.org/kegg:map05152,Infectious diseases
+http://bio2rdf.org/kegg:map05152,Human Diseases
+http://bio2rdf.org/kegg:map04380,Organismal Systems
+http://bio2rdf.org/kegg:map04380,Development
+http://bio2rdf.org/kegg:map05142,Infectious diseases
+http://bio2rdf.org/kegg:map05142,Human Diseases
+http://bio2rdf.org/kegg:map05140,Infectious diseases
+http://bio2rdf.org/kegg:map05140,Human Diseases
+http://bio2rdf.org/kegg:map05146,Human Diseases
+http://bio2rdf.org/kegg:map05146,Infectious diseases
+http://bio2rdf.org/kegg:map05133,Infectious diseases
+http://bio2rdf.org/kegg:map05133,Human Diseases
+http://bio2rdf.org/kegg:map04978,Organismal Systems
+http://bio2rdf.org/kegg:map04978,Digestive system
+http://bio2rdf.org/kegg:map04962,Organismal Systems
+http://bio2rdf.org/kegg:map04962,Excretory system
+http://bio2rdf.org/kegg:map04961,Organismal Systems
+http://bio2rdf.org/kegg:map04961,Excretory system
+http://bio2rdf.org/kegg:map03013,Translation
+http://bio2rdf.org/kegg:map03013,Genetic Information Processing
+http://bio2rdf.org/kegg:map04130,Genetic Information Processing
+http://bio2rdf.org/kegg:map04130,"Folding, sorting and degradation"
+http://bio2rdf.org/kegg:map04115,Cell growth and death
+http://bio2rdf.org/kegg:map04115,Cellular Processes
+http://bio2rdf.org/kegg:map03460,Replication and repair
+http://bio2rdf.org/kegg:map03460,Genetic Information Processing
+http://bio2rdf.org/kegg:map04110,Cellular Processes
+http://bio2rdf.org/kegg:map04110,Cell growth and death
+http://bio2rdf.org/kegg:map05202,Cancers
+http://bio2rdf.org/kegg:map05202,Human Diseases
+http://bio2rdf.org/kegg:map03450,Replication and repair
+http://bio2rdf.org/kegg:map03450,Genetic Information Processing
+http://bio2rdf.org/kegg:map03440,Genetic Information Processing
+http://bio2rdf.org/kegg:map03440,Replication and repair
+http://bio2rdf.org/kegg:map04725,Nervous system
+http://bio2rdf.org/kegg:map04725,Organismal Systems
+http://bio2rdf.org/kegg:map04972,Organismal Systems
+http://bio2rdf.org/kegg:map04972,Digestive system
+http://bio2rdf.org/kegg:map04971,Digestive system
+http://bio2rdf.org/kegg:map04971,Organismal Systems
+http://bio2rdf.org/kegg:map04966,Excretory system
+http://bio2rdf.org/kegg:map04966,Organismal Systems
+http://bio2rdf.org/kegg:map04060,Environmental Information Processing
+http://bio2rdf.org/kegg:map04060,Signaling molecules and interaction
+http://bio2rdf.org/kegg:map04612,Organismal Systems
+http://bio2rdf.org/kegg:map04612,Immune system
+http://bio2rdf.org/kegg:map04630,Signal transduction
+http://bio2rdf.org/kegg:map04630,Environmental Information Processing
+http://bio2rdf.org/kegg:map04640,Organismal Systems
+http://bio2rdf.org/kegg:map04640,Immune system
+http://bio2rdf.org/kegg:map04070,Environmental Information Processing
+http://bio2rdf.org/kegg:map04070,Signal transduction
+http://bio2rdf.org/kegg:map00562,Metabolism
+http://bio2rdf.org/kegg:map00562,Carbohydrate metabolism
+http://bio2rdf.org/kegg:map04975,Digestive system
+http://bio2rdf.org/kegg:map04975,Organismal Systems
+http://bio2rdf.org/kegg:map04977,Digestive system
+http://bio2rdf.org/kegg:map04977,Organismal Systems
+http://bio2rdf.org/kegg:map05220,Human Diseases
+http://bio2rdf.org/kegg:map05220,Cancers
+http://bio2rdf.org/kegg:map05215,Human Diseases
+http://bio2rdf.org/kegg:map05215,Cancers
+http://bio2rdf.org/kegg:map04550,Cellular commiunity
+http://bio2rdf.org/kegg:map04550,Cellular Processes
+http://bio2rdf.org/kegg:map04012,Signal transduction
+http://bio2rdf.org/kegg:map04012,Environmental Information Processing
+http://bio2rdf.org/kegg:map05212,Human Diseases
+http://bio2rdf.org/kegg:map05212,Cancers
+http://bio2rdf.org/kegg:map04068,Signal transduction
+http://bio2rdf.org/kegg:map04068,Environmental Information Processing
+http://bio2rdf.org/kegg:map05221,Human Diseases
+http://bio2rdf.org/kegg:map05221,Cancers
+http://bio2rdf.org/kegg:map04728,Nervous system
+http://bio2rdf.org/kegg:map04728,Organismal Systems
+http://bio2rdf.org/kegg:map04724,Nervous system
+http://bio2rdf.org/kegg:map04724,Organismal Systems
+http://bio2rdf.org/kegg:map04730,Nervous system
+http://bio2rdf.org/kegg:map04730,Organismal Systems
+http://bio2rdf.org/kegg:map04723,Nervous system
+http://bio2rdf.org/kegg:map04723,Organismal Systems
+http://bio2rdf.org/kegg:map04514,Signaling molecules and interaction
+http://bio2rdf.org/kegg:map04514,Environmental Information Processing
+http://bio2rdf.org/kegg:map04360,Development
+http://bio2rdf.org/kegg:map04360,Organismal Systems
+http://bio2rdf.org/kegg:map04062,Immune system
+http://bio2rdf.org/kegg:map04062,Organismal Systems
+http://bio2rdf.org/kegg:map04620,Immune system
+http://bio2rdf.org/kegg:map04620,Organismal Systems
+http://bio2rdf.org/kegg:map03420,Replication and repair
+http://bio2rdf.org/kegg:map03420,Genetic Information Processing
+http://bio2rdf.org/kegg:map02010,Membrane transport
+http://bio2rdf.org/kegg:map02010,Environmental Information Processing
+http://bio2rdf.org/kegg:map04145,Transport and catabolism
+http://bio2rdf.org/kegg:map04145,Cellular Processes
+http://bio2rdf.org/kegg:map03015,Translation
+http://bio2rdf.org/kegg:map03015,Genetic Information Processing
+http://bio2rdf.org/kegg:map03030,Genetic Information Processing
+http://bio2rdf.org/kegg:map03030,Replication and repair
+http://bio2rdf.org/kegg:map03410,Genetic Information Processing
+http://bio2rdf.org/kegg:map03410,Replication and repair
+http://bio2rdf.org/kegg:map05210,Cancers
+http://bio2rdf.org/kegg:map05210,Human Diseases
+http://bio2rdf.org/kegg:map05213,Cancers
+http://bio2rdf.org/kegg:map05213,Human Diseases
+http://bio2rdf.org/kegg:map03430,Replication and repair
+http://bio2rdf.org/kegg:map03430,Genetic Information Processing
+http://bio2rdf.org/kegg:map00260,Amino acid metabolism
+http://bio2rdf.org/kegg:map00260,Metabolism
+http://bio2rdf.org/kegg:map00270,Amino acid metabolism
+http://bio2rdf.org/kegg:map00270,Metabolism
+http://bio2rdf.org/kegg:map00670,Metabolism of cofactors and vitamins
+http://bio2rdf.org/kegg:map00670,Metabolism
+http://bio2rdf.org/kegg:map00450,Metabolism
+http://bio2rdf.org/kegg:map00450,Metabolism of other amino acids
+http://bio2rdf.org/kegg:map00920,Energy metabolism
+http://bio2rdf.org/kegg:map00920,Metabolism
+http://bio2rdf.org/kegg:map00750,Metabolism
+http://bio2rdf.org/kegg:map00750,Metabolism of cofactors and vitamins
+http://bio2rdf.org/kegg:map04122,"Folding, sorting and degradation"
+http://bio2rdf.org/kegg:map04122,Genetic Information Processing
+http://bio2rdf.org/kegg:map04022,Signal transduction
+http://bio2rdf.org/kegg:map04022,Environmental Information Processing
+http://bio2rdf.org/kegg:map04921,Endocrine system
+http://bio2rdf.org/kegg:map04921,Organismal Systems
+http://bio2rdf.org/kegg:map04261,Circulatory system
+http://bio2rdf.org/kegg:map04261,Organismal Systems
+http://bio2rdf.org/kegg:map04923,Endocrine system
+http://bio2rdf.org/kegg:map04923,Organismal Systems
+http://bio2rdf.org/kegg:map04916,Organismal Systems
+http://bio2rdf.org/kegg:map04916,Endocrine system
+http://bio2rdf.org/kegg:map04611,Organismal Systems
+http://bio2rdf.org/kegg:map04611,Immune system
+http://bio2rdf.org/kegg:map04750,Organismal Systems
+http://bio2rdf.org/kegg:map04750,Sensory system
+http://bio2rdf.org/kegg:map04024,Environmental Information Processing
+http://bio2rdf.org/kegg:map04024,Signal transduction
+http://bio2rdf.org/kegg:map04924,Organismal Systems
+http://bio2rdf.org/kegg:map04924,Endocrine system
+http://bio2rdf.org/kegg:map05032,Human Diseases
+http://bio2rdf.org/kegg:map05032,Substance dependence
+http://bio2rdf.org/kegg:map04913,Organismal Systems
+http://bio2rdf.org/kegg:map04913,Endocrine system
+http://bio2rdf.org/kegg:map04918,Endocrine system
+http://bio2rdf.org/kegg:map04918,Organismal Systems
+http://bio2rdf.org/kegg:map04740,Sensory system
+http://bio2rdf.org/kegg:map04740,Organismal Systems
+http://bio2rdf.org/kegg:map05110,Human Diseases
+http://bio2rdf.org/kegg:map05110,Infectious diseases
+http://bio2rdf.org/kegg:map03010,Genetic Information Processing
+http://bio2rdf.org/kegg:map03010,Translation
+http://bio2rdf.org/kegg:map05145,Infectious diseases
+http://bio2rdf.org/kegg:map05145,Human Diseases
+http://bio2rdf.org/kegg:map05120,Infectious diseases
+http://bio2rdf.org/kegg:map05120,Human Diseases
+http://bio2rdf.org/kegg:map04621,Organismal Systems
+http://bio2rdf.org/kegg:map04621,Immune system
+http://bio2rdf.org/kegg:map04668,Environmental Information Processing
+http://bio2rdf.org/kegg:map04668,Signal transduction
+http://bio2rdf.org/kegg:map05164,Infectious diseases
+http://bio2rdf.org/kegg:map05164,Human Diseases
+http://bio2rdf.org/kegg:map05132,Infectious diseases
+http://bio2rdf.org/kegg:map05132,Human Diseases
+http://bio2rdf.org/kegg:map04622,Organismal Systems
+http://bio2rdf.org/kegg:map04622,Immune system
+http://bio2rdf.org/kegg:map04742,Organismal Systems
+http://bio2rdf.org/kegg:map04742,Sensory system
+http://bio2rdf.org/kegg:map04960,Organismal Systems
+http://bio2rdf.org/kegg:map04960,Excretory system
+http://bio2rdf.org/kegg:map04664,Organismal Systems
+http://bio2rdf.org/kegg:map04664,Immune system
+http://bio2rdf.org/kegg:map04071,Signal transduction
+http://bio2rdf.org/kegg:map04071,Environmental Information Processing
+http://bio2rdf.org/kegg:map04915,Organismal Systems
+http://bio2rdf.org/kegg:map04915,Endocrine system
+http://bio2rdf.org/kegg:map04914,Endocrine system
+http://bio2rdf.org/kegg:map04914,Organismal Systems
+http://bio2rdf.org/kegg:map05231,Cancers
+http://bio2rdf.org/kegg:map05231,Human Diseases
+http://bio2rdf.org/kegg:map03008,Genetic Information Processing
+http://bio2rdf.org/kegg:map03008,Translation
+http://bio2rdf.org/kegg:map05340,Human Diseases
+http://bio2rdf.org/kegg:map05340,Immune diseases
+http://bio2rdf.org/kegg:map00220,Amino acid metabolism
+http://bio2rdf.org/kegg:map00220,Metabolism
+http://bio2rdf.org/kegg:map03050,Genetic Information Processing
+http://bio2rdf.org/kegg:map03050,"Folding, sorting and degradation"
+http://bio2rdf.org/kegg:map00910,Energy metabolism
+http://bio2rdf.org/kegg:map00910,Metabolism
+http://bio2rdf.org/kegg:map04911,Endocrine system
+http://bio2rdf.org/kegg:map04911,Organismal Systems
+http://bio2rdf.org/kegg:map00603,Glycan biosynthesis and metabolism
+http://bio2rdf.org/kegg:map00603,Metabolism
+http://bio2rdf.org/kegg:map00600,Lipid metabolism
+http://bio2rdf.org/kegg:map00600,Metabolism
+http://bio2rdf.org/kegg:map00511,Metabolism
+http://bio2rdf.org/kegg:map00511,Glycan biosynthesis and metabolism
+http://bio2rdf.org/kegg:map00604,Glycan biosynthesis and metabolism
+http://bio2rdf.org/kegg:map00604,Metabolism
+http://bio2rdf.org/kegg:map04142,Transport and catabolism
+http://bio2rdf.org/kegg:map04142,Cellular Processes
+http://bio2rdf.org/kegg:map00531,Metabolism
+http://bio2rdf.org/kegg:map00531,Glycan biosynthesis and metabolism
+http://bio2rdf.org/kegg:map04144,Cellular Processes
+http://bio2rdf.org/kegg:map04144,Transport and catabolism
+http://bio2rdf.org/kegg:map04210,Cell growth and death
+http://bio2rdf.org/kegg:map04210,Cellular Processes
+http://bio2rdf.org/kegg:map04722,Nervous system
+http://bio2rdf.org/kegg:map04722,Organismal Systems
+http://bio2rdf.org/kegg:map04330,Signal transduction
+http://bio2rdf.org/kegg:map04330,Environmental Information Processing
